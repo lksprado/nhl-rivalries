@@ -1,0 +1,454 @@
+,fight,count,percentage
+1,New York Rangers x Philadelphia Flyers,97,0.9397403603952722
+2,Calgary Flames x Edmonton Oilers,92,0.8913001356326293
+3,Anaheim Ducks x Los Angeles Kings,82,0.7944196861073436
+4,Anaheim Ducks x San Jose Sharks,82,0.7944196861073436
+5,Anaheim Ducks x Calgary Flames,81,0.784731641154815
+6,New Jersey Devils x New York Rangers,78,0.7556675062972292
+7,Calgary Flames x Vancouver Canucks,78,0.7556675062972292
+8,Chicago Blackhawks x St. Louis Blues,77,0.7459794613447006
+9,New Jersey Devils x Philadelphia Flyers,75,0.7266033714396435
+10,Philadelphia Flyers x Pittsburgh Penguins,74,0.7169153264871149
+11,Ottawa Senators x Toronto Maple Leafs,72,0.6975392365820577
+12,Boston Bruins x Toronto Maple Leafs,71,0.6878511916295291
+13,New York Islanders x Philadelphia Flyers,69,0.668475101724472
+14,Columbus Blue Jackets x St. Louis Blues,69,0.668475101724472
+15,Minnesota Wild x Vancouver Canucks,68,0.6587870567719434
+16,Boston Bruins x Ottawa Senators,66,0.6394109668668863
+17,New York Islanders x Pittsburgh Penguins,66,0.6394109668668863
+18,Boston Bruins x Montreal Canadiens,66,0.6394109668668863
+19,Boston Bruins x Buffalo Sabres,66,0.6394109668668863
+20,Florida Panthers x Tampa Bay Lightning,66,0.6394109668668863
+21,Dallas Stars x St. Louis Blues,63,0.6103468320093005
+22,Florida Panthers x Philadelphia Flyers,60,0.5812826971517148
+23,Edmonton Oilers x Vancouver Canucks,60,0.5812826971517148
+24,Anaheim Ducks x St. Louis Blues,60,0.5812826971517148
+25,Anaheim Ducks x Dallas Stars,60,0.5812826971517148
+26,New Jersey Devils x New York Islanders,59,0.5715946521991863
+27,Boston Bruins x Florida Panthers,59,0.5715946521991863
+28,Calgary Flames x Columbus Blue Jackets,57,0.552218562294129
+29,Anaheim Ducks x Chicago Blackhawks,56,0.5425305173416005
+30,Florida Panthers x Ottawa Senators,56,0.5425305173416005
+31,Ottawa Senators x Philadelphia Flyers,56,0.5425305173416005
+32,New York Islanders x New York Rangers,55,0.5328424723890719
+33,Colorado Avalanche x Vancouver Canucks,55,0.5328424723890719
+34,Calgary Flames x Minnesota Wild,55,0.5328424723890719
+35,Calgary Flames x St. Louis Blues,55,0.5328424723890719
+36,Montreal Canadiens x Toronto Maple Leafs,54,0.5231544274365434
+37,Boston Bruins x Philadelphia Flyers,54,0.5231544274365434
+38,Calgary Flames x Colorado Avalanche,54,0.5231544274365434
+39,New York Rangers x Washington Capitals,53,0.5134663824840147
+40,Edmonton Oilers x Los Angeles Kings,52,0.5037783375314862
+41,Colorado Avalanche x St. Louis Blues,52,0.5037783375314862
+42,Columbus Blue Jackets x Nashville Predators,51,0.4940902925789576
+43,Boston Bruins x New York Rangers,51,0.4940902925789576
+44,Anaheim Ducks x Nashville Predators,51,0.4940902925789576
+45,Chicago Blackhawks x Nashville Predators,51,0.4940902925789576
+46,Chicago Blackhawks x Columbus Blue Jackets,51,0.4940902925789576
+47,Dallas Stars x San Jose Sharks,50,0.48440224762642903
+48,Philadelphia Flyers x Washington Capitals,50,0.48440224762642903
+49,Boston Bruins x Washington Capitals,49,0.47471420267390046
+50,New York Rangers x Tampa Bay Lightning,49,0.47471420267390046
+51,Colorado Avalanche x Edmonton Oilers,49,0.47471420267390046
+52,New York Rangers x Pittsburgh Penguins,48,0.4650261577213718
+53,Edmonton Oilers x Minnesota Wild,48,0.4650261577213718
+54,Montreal Canadiens x Ottawa Senators,47,0.45533811276884323
+55,Boston Bruins x Tampa Bay Lightning,47,0.45533811276884323
+56,Philadelphia Flyers x Toronto Maple Leafs,47,0.45533811276884323
+57,Los Angeles Kings x San Jose Sharks,47,0.45533811276884323
+58,Edmonton Oilers x St. Louis Blues,47,0.45533811276884323
+59,Buffalo Sabres x Ottawa Senators,46,0.44565006781631467
+60,Los Angeles Kings x St. Louis Blues,46,0.44565006781631467
+61,Anaheim Ducks x Columbus Blue Jackets,46,0.44565006781631467
+62,Dallas Stars x Los Angeles Kings,45,0.4359620228637861
+63,Boston Bruins x Pittsburgh Penguins,45,0.4359620228637861
+64,Colorado Avalanche x Columbus Blue Jackets,44,0.42627397791125754
+65,Buffalo Sabres x Toronto Maple Leafs,44,0.42627397791125754
+66,Minnesota Wild x Nashville Predators,44,0.42627397791125754
+67,Ottawa Senators x Tampa Bay Lightning,44,0.42627397791125754
+68,Chicago Blackhawks x Vancouver Canucks,43,0.4165859329587289
+69,Calgary Flames x Los Angeles Kings,43,0.4165859329587289
+70,Buffalo Sabres x Philadelphia Flyers,43,0.4165859329587289
+71,Nashville Predators x St. Louis Blues,43,0.4165859329587289
+72,New Jersey Devils x Tampa Bay Lightning,43,0.4165859329587289
+73,Dallas Stars x Nashville Predators,43,0.4165859329587289
+74,Tampa Bay Lightning x Washington Capitals,43,0.4165859329587289
+75,Pittsburgh Penguins x Toronto Maple Leafs,42,0.4068978880062003
+76,San Jose Sharks x Vancouver Canucks,42,0.4068978880062003
+77,Colorado Avalanche x Los Angeles Kings,42,0.4068978880062003
+78,Anaheim Ducks x Edmonton Oilers,42,0.4068978880062003
+79,Chicago Blackhawks x San Jose Sharks,42,0.4068978880062003
+80,Colorado Avalanche x Minnesota Wild,42,0.4068978880062003
+81,Anaheim Ducks x Vancouver Canucks,42,0.4068978880062003
+82,Philadelphia Flyers x Tampa Bay Lightning,42,0.4068978880062003
+83,Columbus Blue Jackets x San Jose Sharks,41,0.3972098430536718
+84,Calgary Flames x Nashville Predators,41,0.3972098430536718
+85,Calgary Flames x Chicago Blackhawks,41,0.3972098430536718
+86,Chicago Blackhawks x Los Angeles Kings,40,0.3875217981011432
+87,Calgary Flames x San Jose Sharks,40,0.3875217981011432
+88,Pittsburgh Penguins x Washington Capitals,40,0.3875217981011432
+89,San Jose Sharks x St. Louis Blues,40,0.3875217981011432
+90,Ottawa Senators x Pittsburgh Penguins,40,0.3875217981011432
+91,New York Islanders x Tampa Bay Lightning,39,0.3778337531486146
+92,Edmonton Oilers x San Jose Sharks,39,0.3778337531486146
+93,Buffalo Sabres x Montreal Canadiens,39,0.3778337531486146
+94,Minnesota Wild x St. Louis Blues,39,0.3778337531486146
+95,New York Rangers x Toronto Maple Leafs,38,0.36814570819608605
+96,Nashville Predators x Vancouver Canucks,38,0.36814570819608605
+97,Dallas Stars x Edmonton Oilers,38,0.36814570819608605
+98,Montreal Canadiens x Tampa Bay Lightning,38,0.36814570819608605
+99,Buffalo Sabres x New York Islanders,38,0.36814570819608605
+100,Buffalo Sabres x Florida Panthers,38,0.36814570819608605
+101,Chicago Blackhawks x Edmonton Oilers,38,0.36814570819608605
+102,Anaheim Ducks x Colorado Avalanche,38,0.36814570819608605
+103,Nashville Predators x San Jose Sharks,38,0.36814570819608605
+104,Florida Panthers x Toronto Maple Leafs,38,0.36814570819608605
+105,Anaheim Ducks x Minnesota Wild,38,0.36814570819608605
+106,Columbus Blue Jackets x Minnesota Wild,37,0.35845766324355743
+107,Colorado Avalanche x Dallas Stars,37,0.35845766324355743
+108,Chicago Blackhawks x Colorado Avalanche,36,0.34876961829102887
+109,New York Rangers x Ottawa Senators,35,0.3390815733385003
+110,Florida Panthers x New York Rangers,35,0.3390815733385003
+111,Chicago Blackhawks x Dallas Stars,35,0.3390815733385003
+112,Florida Panthers x Montreal Canadiens,35,0.3390815733385003
+113,Carolina Hurricanes x Washington Capitals,34,0.3293935283859717
+114,Carolina Hurricanes x Florida Panthers,34,0.3293935283859717
+115,Florida Panthers x New York Islanders,34,0.3293935283859717
+116,Buffalo Sabres x Washington Capitals,34,0.3293935283859717
+117,Columbus Blue Jackets x Edmonton Oilers,34,0.3293935283859717
+118,Calgary Flames x Dallas Stars,34,0.3293935283859717
+119,Colorado Avalanche x Nashville Predators,34,0.3293935283859717
+120,Ottawa Senators x Washington Capitals,33,0.3197054834334431
+121,St. Louis Blues x Vancouver Canucks,33,0.3197054834334431
+122,Montreal Canadiens x New York Rangers,32,0.3100174384809145
+123,Dallas Stars x Vancouver Canucks,32,0.3100174384809145
+124,Tampa Bay Lightning x Toronto Maple Leafs,32,0.3100174384809145
+125,Buffalo Sabres x Tampa Bay Lightning,32,0.3100174384809145
+126,Pittsburgh Penguins x Tampa Bay Lightning,32,0.3100174384809145
+127,New Jersey Devils x Toronto Maple Leafs,32,0.3100174384809145
+128,Boston Bruins x New Jersey Devils,32,0.3100174384809145
+129,New Jersey Devils x Pittsburgh Penguins,31,0.30032939352838595
+130,Edmonton Oilers x Nashville Predators,31,0.30032939352838595
+131,Columbus Blue Jackets x Pittsburgh Penguins,31,0.30032939352838595
+132,Chicago Blackhawks x Minnesota Wild,31,0.30032939352838595
+133,Columbus Blue Jackets x Vancouver Canucks,31,0.30032939352838595
+134,Florida Panthers x New Jersey Devils,31,0.30032939352838595
+135,Los Angeles Kings x Vancouver Canucks,31,0.30032939352838595
+136,Columbus Blue Jackets x Los Angeles Kings,30,0.2906413485758574
+137,Boston Bruins x Carolina Hurricanes,30,0.2906413485758574
+138,New York Islanders x Toronto Maple Leafs,30,0.2906413485758574
+139,Florida Panthers x Pittsburgh Penguins,30,0.2906413485758574
+140,Boston Bruins x New York Islanders,30,0.2906413485758574
+141,Florida Panthers x Washington Capitals,30,0.2906413485758574
+142,Carolina Hurricanes x Ottawa Senators,30,0.2906413485758574
+143,Dallas Stars x Florida Panthers,29,0.2809533036233288
+144,Montreal Canadiens x Philadelphia Flyers,29,0.2809533036233288
+145,Ottawa Senators x Vancouver Canucks,29,0.2809533036233288
+146,New Jersey Devils x Washington Capitals,29,0.2809533036233288
+147,Carolina Hurricanes x Philadelphia Flyers,28,0.27126525867080026
+148,New Jersey Devils x Ottawa Senators,28,0.27126525867080026
+149,Anaheim Ducks x Detroit Red Wings,28,0.27126525867080026
+150,Columbus Blue Jackets x Dallas Stars,28,0.27126525867080026
+151,Carolina Hurricanes x Pittsburgh Penguins,28,0.27126525867080026
+152,Dallas Stars x Minnesota Wild,28,0.27126525867080026
+153,Toronto Maple Leafs x Vancouver Canucks,27,0.2615772137182717
+154,Detroit Red Wings x Nashville Predators,27,0.2615772137182717
+155,Carolina Hurricanes x Tampa Bay Lightning,26,0.2518891687657431
+156,Los Angeles Kings x Minnesota Wild,26,0.2518891687657431
+157,Detroit Red Wings x St. Louis Blues,26,0.2518891687657431
+158,New York Islanders x Ottawa Senators,26,0.2518891687657431
+159,Columbus Blue Jackets x Detroit Red Wings,25,0.24220112381321451
+160,Minnesota Wild x San Jose Sharks,24,0.2325130788606859
+161,Carolina Hurricanes x New Jersey Devils,24,0.2325130788606859
+162,Calgary Flames x Toronto Maple Leafs,23,0.22282503390815733
+163,Boston Bruins x Los Angeles Kings,23,0.22282503390815733
+164,Toronto Maple Leafs x Washington Capitals,23,0.22282503390815733
+165,Los Angeles Kings x Nashville Predators,23,0.22282503390815733
+166,Buffalo Sabres x New York Rangers,23,0.22282503390815733
+167,Montreal Canadiens x Pittsburgh Penguins,23,0.22282503390815733
+168,Montreal Canadiens x Washington Capitals,22,0.21313698895562877
+169,New York Islanders x Washington Capitals,22,0.21313698895562877
+170,Nashville Predators x Tampa Bay Lightning,22,0.21313698895562877
+171,Buffalo Sabres x New Jersey Devils,22,0.21313698895562877
+172,Columbus Blue Jackets x New York Islanders,22,0.21313698895562877
+173,Carolina Hurricanes x Toronto Maple Leafs,22,0.21313698895562877
+174,Columbus Blue Jackets x Ottawa Senators,22,0.21313698895562877
+175,Montreal Canadiens x New York Islanders,21,0.20344894400310015
+176,Dallas Stars x Detroit Red Wings,21,0.20344894400310015
+177,Anaheim Ducks x Buffalo Sabres,21,0.20344894400310015
+178,Boston Bruins x Columbus Blue Jackets,21,0.20344894400310015
+179,Colorado Avalanche x San Jose Sharks,21,0.20344894400310015
+180,Boston Bruins x Dallas Stars,21,0.20344894400310015
+181,Edmonton Oilers x Florida Panthers,20,0.1937608990505716
+182,Edmonton Oilers x Toronto Maple Leafs,20,0.1937608990505716
+183,Columbus Blue Jackets x New York Rangers,20,0.1937608990505716
+184,Chicago Blackhawks x Philadelphia Flyers,20,0.1937608990505716
+185,Buffalo Sabres x Pittsburgh Penguins,20,0.1937608990505716
+186,Calgary Flames x Montreal Canadiens,20,0.1937608990505716
+187,Minnesota Wild x Winnipeg Jets,20,0.1937608990505716
+188,Florida Panthers x Nashville Predators,20,0.1937608990505716
+189,Chicago Blackhawks x New Jersey Devils,20,0.1937608990505716
+190,Chicago Blackhawks x Detroit Red Wings,20,0.1937608990505716
+191,Calgary Flames x Tampa Bay Lightning,20,0.1937608990505716
+192,Calgary Flames x New York Rangers,19,0.18407285409804303
+193,Colorado Avalanche x Tampa Bay Lightning,19,0.18407285409804303
+194,Anaheim Ducks x Washington Capitals,19,0.18407285409804303
+195,Minnesota Wild x Philadelphia Flyers,19,0.18407285409804303
+196,Nashville Predators x Winnipeg Jets,19,0.18407285409804303
+197,Los Angeles Kings x Ottawa Senators,19,0.18407285409804303
+198,Anaheim Ducks x New York Rangers,19,0.18407285409804303
+199,Florida Panthers x San Jose Sharks,19,0.18407285409804303
+200,Calgary Flames x Detroit Red Wings,19,0.18407285409804303
+201,Columbus Blue Jackets x Philadelphia Flyers,19,0.18407285409804303
+202,Colorado Avalanche x Winnipeg Jets,18,0.17438480914551444
+203,Chicago Blackhawks x Florida Panthers,18,0.17438480914551444
+204,Detroit Red Wings x Edmonton Oilers,18,0.17438480914551444
+205,Carolina Hurricanes x New York Islanders,18,0.17438480914551444
+206,Columbus Blue Jackets x Washington Capitals,18,0.17438480914551444
+207,Anaheim Ducks x Tampa Bay Lightning,18,0.17438480914551444
+208,Carolina Hurricanes x New York Rangers,18,0.17438480914551444
+209,Colorado Avalanche x New York Rangers,17,0.16469676419298585
+210,Boston Bruins x Vancouver Canucks,17,0.16469676419298585
+211,Boston Bruins x Edmonton Oilers,17,0.16469676419298585
+212,Calgary Flames x Ottawa Senators,17,0.16469676419298585
+213,Philadelphia Flyers x San Jose Sharks,17,0.16469676419298585
+214,Detroit Red Wings x Vancouver Canucks,17,0.16469676419298585
+215,Colorado Avalanche x Florida Panthers,16,0.15500871924045725
+216,Anaheim Ducks x Philadelphia Flyers,16,0.15500871924045725
+217,Buffalo Sabres x St. Louis Blues,16,0.15500871924045725
+218,Detroit Red Wings x Tampa Bay Lightning,16,0.15500871924045725
+219,Anaheim Ducks x Florida Panthers,16,0.15500871924045725
+220,Boston Bruins x Chicago Blackhawks,16,0.15500871924045725
+221,Buffalo Sabres x Carolina Hurricanes,16,0.15500871924045725
+222,Florida Panthers x Vancouver Canucks,16,0.15500871924045725
+223,Los Angeles Kings x New York Rangers,16,0.15500871924045725
+224,Edmonton Oilers x Montreal Canadiens,16,0.15500871924045725
+225,Nashville Predators x Pittsburgh Penguins,15,0.1453206742879287
+226,Nashville Predators x Ottawa Senators,15,0.1453206742879287
+227,Montreal Canadiens x Vancouver Canucks,15,0.1453206742879287
+228,Boston Bruins x San Jose Sharks,15,0.1453206742879287
+229,Edmonton Oilers x Ottawa Senators,15,0.1453206742879287
+230,Columbus Blue Jackets x Florida Panthers,15,0.1453206742879287
+231,Anaheim Ducks x Montreal Canadiens,15,0.1453206742879287
+232,Edmonton Oilers x Tampa Bay Lightning,15,0.1453206742879287
+233,Montreal Canadiens x New Jersey Devils,15,0.1453206742879287
+234,Minnesota Wild x Ottawa Senators,15,0.1453206742879287
+235,Buffalo Sabres x Los Angeles Kings,15,0.1453206742879287
+236,Boston Bruins x St. Louis Blues,15,0.1453206742879287
+237,Edmonton Oilers x New York Rangers,15,0.1453206742879287
+238,Detroit Red Wings x San Jose Sharks,15,0.1453206742879287
+239,Anaheim Ducks x New Jersey Devils,15,0.1453206742879287
+240,Nashville Predators x Philadelphia Flyers,14,0.13563262933540013
+241,Anaheim Ducks x Boston Bruins,14,0.13563262933540013
+242,Chicago Blackhawks x Tampa Bay Lightning,14,0.13563262933540013
+243,Boston Bruins x Calgary Flames,14,0.13563262933540013
+244,Anaheim Ducks x Ottawa Senators,14,0.13563262933540013
+245,Minnesota Wild x Montreal Canadiens,14,0.13563262933540013
+246,Columbus Blue Jackets x New Jersey Devils,14,0.13563262933540013
+247,Pittsburgh Penguins x San Jose Sharks,14,0.13563262933540013
+248,Colorado Avalanche x New Jersey Devils,14,0.13563262933540013
+249,Philadelphia Flyers x St. Louis Blues,14,0.13563262933540013
+250,Edmonton Oilers x New York Islanders,14,0.13563262933540013
+251,Colorado Avalanche x Washington Capitals,14,0.13563262933540013
+252,Calgary Flames x Florida Panthers,14,0.13563262933540013
+253,Edmonton Oilers x New Jersey Devils,14,0.13563262933540013
+254,Boston Bruins x Winnipeg Jets,14,0.13563262933540013
+255,Edmonton Oilers x Winnipeg Jets,14,0.13563262933540013
+256,Detroit Red Wings x Los Angeles Kings,14,0.13563262933540013
+257,Boston Bruins x Colorado Avalanche,13,0.12594458438287154
+258,Buffalo Sabres x Columbus Blue Jackets,13,0.12594458438287154
+259,Nashville Predators x Washington Capitals,13,0.12594458438287154
+260,Los Angeles Kings x Washington Capitals,13,0.12594458438287154
+261,Carolina Hurricanes x Montreal Canadiens,13,0.12594458438287154
+262,Colorado Avalanche x Detroit Red Wings,13,0.12594458438287154
+263,Dallas Stars x Winnipeg Jets,13,0.12594458438287154
+264,Los Angeles Kings x Tampa Bay Lightning,13,0.12594458438287154
+265,Ottawa Senators x Winnipeg Jets,13,0.12594458438287154
+266,Tampa Bay Lightning x Winnipeg Jets,13,0.12594458438287154
+267,Florida Panthers x Minnesota Wild,13,0.12594458438287154
+268,Detroit Red Wings x Florida Panthers,13,0.12594458438287154
+269,Chicago Blackhawks x New York Rangers,13,0.12594458438287154
+270,Philadelphia Flyers x Vancouver Canucks,13,0.12594458438287154
+271,Dallas Stars x Tampa Bay Lightning,13,0.12594458438287154
+272,Ottawa Senators x St. Louis Blues,13,0.12594458438287154
+273,Calgary Flames x Philadelphia Flyers,13,0.12594458438287154
+274,New York Rangers x St. Louis Blues,13,0.12594458438287154
+275,San Jose Sharks x Toronto Maple Leafs,13,0.12594458438287154
+276,Columbus Blue Jackets x Montreal Canadiens,13,0.12594458438287154
+277,Pittsburgh Penguins x Winnipeg Jets,12,0.11625653943034295
+278,Dallas Stars x Washington Capitals,12,0.11625653943034295
+279,St. Louis Blues x Washington Capitals,12,0.11625653943034295
+280,Boston Bruins x Minnesota Wild,12,0.11625653943034295
+281,Anaheim Ducks x Toronto Maple Leafs,12,0.11625653943034295
+282,Anaheim Ducks x New York Islanders,12,0.11625653943034295
+283,Calgary Flames x New Jersey Devils,12,0.11625653943034295
+284,Calgary Flames x New York Islanders,12,0.11625653943034295
+285,St. Louis Blues x Toronto Maple Leafs,12,0.11625653943034295
+286,Montreal Canadiens x Winnipeg Jets,11,0.10656849447781439
+287,Ottawa Senators x San Jose Sharks,11,0.10656849447781439
+288,Tampa Bay Lightning x Vancouver Canucks,11,0.10656849447781439
+289,Buffalo Sabres x Minnesota Wild,11,0.10656849447781439
+290,Columbus Blue Jackets x Toronto Maple Leafs,11,0.10656849447781439
+291,Minnesota Wild x New York Islanders,11,0.10656849447781439
+292,Anaheim Ducks x Winnipeg Jets,11,0.10656849447781439
+293,Toronto Maple Leafs x Winnipeg Jets,11,0.10656849447781439
+294,Dallas Stars x Montreal Canadiens,11,0.10656849447781439
+295,Los Angeles Kings x Toronto Maple Leafs,11,0.10656849447781439
+296,Detroit Red Wings x Ottawa Senators,11,0.10656849447781439
+297,Minnesota Wild x Washington Capitals,11,0.10656849447781439
+298,New Jersey Devils x Vancouver Canucks,11,0.10656849447781439
+299,New York Islanders x San Jose Sharks,11,0.10656849447781439
+300,Los Angeles Kings x New York Islanders,11,0.10656849447781439
+301,Minnesota Wild x Pittsburgh Penguins,11,0.10656849447781439
+302,Nashville Predators x New York Rangers,11,0.10656849447781439
+303,New Jersey Devils x San Jose Sharks,10,0.0968804495252858
+304,Boston Bruins x Nashville Predators,10,0.0968804495252858
+305,Dallas Stars x Toronto Maple Leafs,10,0.0968804495252858
+306,Buffalo Sabres x Dallas Stars,10,0.0968804495252858
+307,Colorado Avalanche x Ottawa Senators,10,0.0968804495252858
+308,Dallas Stars x Pittsburgh Penguins,10,0.0968804495252858
+309,Florida Panthers x Los Angeles Kings,10,0.0968804495252858
+310,Los Angeles Kings x New Jersey Devils,10,0.0968804495252858
+311,Montreal Canadiens x Nashville Predators,10,0.0968804495252858
+312,Colorado Avalanche x Pittsburgh Penguins,10,0.0968804495252858
+313,Colorado Avalanche x Toronto Maple Leafs,10,0.0968804495252858
+314,St. Louis Blues x Winnipeg Jets,10,0.0968804495252858
+315,Buffalo Sabres x Nashville Predators,10,0.0968804495252858
+316,Minnesota Wild x Toronto Maple Leafs,10,0.0968804495252858
+317,Carolina Hurricanes x St. Louis Blues,10,0.0968804495252858
+318,New York Rangers x Vancouver Canucks,10,0.0968804495252858
+319,Anaheim Ducks x Pittsburgh Penguins,10,0.0968804495252858
+320,Detroit Red Wings x Philadelphia Flyers,10,0.0968804495252858
+321,Calgary Flames x Washington Capitals,10,0.0968804495252858
+322,New York Rangers x Winnipeg Jets,10,0.0968804495252858
+323,St. Louis Blues x Tampa Bay Lightning,10,0.0968804495252858
+324,Dallas Stars x New Jersey Devils,10,0.0968804495252858
+325,Edmonton Oilers x Philadelphia Flyers,10,0.0968804495252858
+326,Anaheim Ducks x Carolina Hurricanes,10,0.0968804495252858
+327,Florida Panthers x St. Louis Blues,10,0.0968804495252858
+328,Nashville Predators x Toronto Maple Leafs,9,0.08719240457275722
+329,Carolina Hurricanes x Vancouver Canucks,9,0.08719240457275722
+330,Anaheim Ducks x Vegas Golden Knights,9,0.08719240457275722
+331,Los Angeles Kings x Philadelphia Flyers,9,0.08719240457275722
+332,Calgary Flames x Carolina Hurricanes,9,0.08719240457275722
+333,Colorado Avalanche x Montreal Canadiens,9,0.08719240457275722
+334,Florida Panthers x Winnipeg Jets,9,0.08719240457275722
+335,Chicago Blackhawks x New York Islanders,9,0.08719240457275722
+336,Buffalo Sabres x Calgary Flames,9,0.08719240457275722
+337,Pittsburgh Penguins x St. Louis Blues,9,0.08719240457275722
+338,Carolina Hurricanes x Colorado Avalanche,9,0.08719240457275722
+339,Detroit Red Wings x Toronto Maple Leafs,9,0.08719240457275722
+340,Dallas Stars x New York Rangers,9,0.08719240457275722
+341,Carolina Hurricanes x Dallas Stars,9,0.08719240457275722
+342,Seattle Kraken x Vancouver Canucks,9,0.08719240457275722
+343,Chicago Blackhawks x Winnipeg Jets,9,0.08719240457275722
+344,Washington Capitals x Winnipeg Jets,9,0.08719240457275722
+345,Vancouver Canucks x Winnipeg Jets,9,0.08719240457275722
+346,Edmonton Oilers x Pittsburgh Penguins,9,0.08719240457275722
+347,Dallas Stars x Philadelphia Flyers,9,0.08719240457275722
+348,Calgary Flames x Pittsburgh Penguins,9,0.08719240457275722
+349,Minnesota Wild x New York Rangers,9,0.08719240457275722
+350,Columbus Blue Jackets x Tampa Bay Lightning,8,0.07750435962022863
+351,Los Angeles Kings x Winnipeg Jets,8,0.07750435962022863
+352,San Jose Sharks x Winnipeg Jets,8,0.07750435962022863
+353,Detroit Red Wings x New York Islanders,8,0.07750435962022863
+354,San Jose Sharks x Washington Capitals,8,0.07750435962022863
+355,Buffalo Sabres x Edmonton Oilers,8,0.07750435962022863
+356,Chicago Blackhawks x Montreal Canadiens,8,0.07750435962022863
+357,Edmonton Oilers x Washington Capitals,8,0.07750435962022863
+358,Nashville Predators x New York Islanders,8,0.07750435962022863
+359,New Jersey Devils x St. Louis Blues,8,0.07750435962022863
+360,Carolina Hurricanes x San Jose Sharks,8,0.07750435962022863
+361,Pittsburgh Penguins x Vancouver Canucks,8,0.07750435962022863
+362,Chicago Blackhawks x Pittsburgh Penguins,8,0.07750435962022863
+363,Buffalo Sabres x Chicago Blackhawks,7,0.06781631466770006
+364,New York Islanders x St. Louis Blues,7,0.06781631466770006
+365,Carolina Hurricanes x Columbus Blue Jackets,7,0.06781631466770006
+366,Montreal Canadiens x St. Louis Blues,7,0.06781631466770006
+367,Los Angeles Kings x Montreal Canadiens,7,0.06781631466770006
+368,Los Angeles Kings x Pittsburgh Penguins,7,0.06781631466770006
+369,Carolina Hurricanes x Minnesota Wild,7,0.06781631466770006
+370,Detroit Red Wings x Minnesota Wild,7,0.06781631466770006
+371,San Jose Sharks x Tampa Bay Lightning,7,0.06781631466770006
+372,Buffalo Sabres x Colorado Avalanche,7,0.06781631466770006
+373,Columbus Blue Jackets x Winnipeg Jets,7,0.06781631466770006
+374,Colorado Avalanche x Philadelphia Flyers,7,0.06781631466770006
+375,Buffalo Sabres x Detroit Red Wings,7,0.06781631466770006
+376,Philadelphia Flyers x Winnipeg Jets,7,0.06781631466770006
+377,Carolina Hurricanes x Winnipeg Jets,7,0.06781631466770006
+378,Boston Bruins x Detroit Red Wings,7,0.06781631466770006
+379,Buffalo Sabres x Winnipeg Jets,6,0.058128269715171474
+380,New York Islanders x Winnipeg Jets,6,0.058128269715171474
+381,Colorado Avalanche x New York Islanders,6,0.058128269715171474
+382,Carolina Hurricanes x Los Angeles Kings,6,0.058128269715171474
+383,Minnesota Wild x New Jersey Devils,6,0.058128269715171474
+384,Chicago Blackhawks x Washington Capitals,6,0.058128269715171474
+385,Colorado Avalanche x Vegas Golden Knights,6,0.058128269715171474
+386,New York Islanders x Vancouver Canucks,6,0.058128269715171474
+387,Minnesota Wild x Tampa Bay Lightning,6,0.058128269715171474
+388,Dallas Stars x Ottawa Senators,6,0.058128269715171474
+389,Chicago Blackhawks x Toronto Maple Leafs,6,0.058128269715171474
+390,Detroit Red Wings x New Jersey Devils,6,0.058128269715171474
+391,New York Rangers x San Jose Sharks,6,0.058128269715171474
+392,Vegas Golden Knights x Winnipeg Jets,5,0.0484402247626429
+393,Nashville Predators x Vegas Golden Knights,5,0.0484402247626429
+394,New Jersey Devils x Winnipeg Jets,5,0.0484402247626429
+395,Calgary Flames x Winnipeg Jets,5,0.0484402247626429
+396,Buffalo Sabres x San Jose Sharks,5,0.0484402247626429
+397,Montreal Canadiens x San Jose Sharks,5,0.0484402247626429
+398,San Jose Sharks x Vegas Golden Knights,5,0.0484402247626429
+399,Minnesota Wild x Seattle Kraken,4,0.038752179810114314
+400,Detroit Red Wings x Montreal Canadiens,4,0.038752179810114314
+401,Buffalo Sabres x Vancouver Canucks,4,0.038752179810114314
+402,Carolina Hurricanes x Edmonton Oilers,4,0.038752179810114314
+403,Carolina Hurricanes x Chicago Blackhawks,4,0.038752179810114314
+404,Dallas Stars x New York Islanders,4,0.038752179810114314
+405,Carolina Hurricanes x Detroit Red Wings,4,0.038752179810114314
+406,New York Rangers x Vegas Golden Knights,4,0.038752179810114314
+407,Chicago Blackhawks x Ottawa Senators,4,0.038752179810114314
+408,Vancouver Canucks x Washington Capitals,4,0.038752179810114314
+409,Los Angeles Kings x Vegas Golden Knights,4,0.038752179810114314
+410,Anaheim Ducks x Seattle Kraken,4,0.038752179810114314
+411,San Jose Sharks x Seattle Kraken,4,0.038752179810114314
+412,St. Louis Blues x Vegas Golden Knights,4,0.038752179810114314
+413,Nashville Predators x New Jersey Devils,3,0.029064134857585737
+414,Detroit Red Wings x New York Rangers,3,0.029064134857585737
+415,Minnesota Wild x Vegas Golden Knights,3,0.029064134857585737
+416,Ottawa Senators x Vegas Golden Knights,3,0.029064134857585737
+417,Calgary Flames x Seattle Kraken,3,0.029064134857585737
+418,Buffalo Sabres x Vegas Golden Knights,3,0.029064134857585737
+419,Tampa Bay Lightning x Vegas Golden Knights,3,0.029064134857585737
+420,Detroit Red Wings x Pittsburgh Penguins,3,0.029064134857585737
+421,Carolina Hurricanes x Nashville Predators,3,0.029064134857585737
+422,Vancouver Canucks x Vegas Golden Knights,3,0.029064134857585737
+423,New York Islanders x Vegas Golden Knights,3,0.029064134857585737
+424,New Jersey Devils x Seattle Kraken,3,0.029064134857585737
+425,Colorado Avalanche x Seattle Kraken,3,0.029064134857585737
+426,Edmonton Oilers x Seattle Kraken,3,0.029064134857585737
+427,Seattle Kraken x Vegas Golden Knights,3,0.029064134857585737
+428,Detroit Red Wings x Washington Capitals,3,0.029064134857585737
+429,Philadelphia Flyers x Seattle Kraken,3,0.029064134857585737
+430,Edmonton Oilers x Vegas Golden Knights,2,0.019376089905057157
+431,Chicago Blackhawks x Seattle Kraken,2,0.019376089905057157
+432,Carolina Hurricanes x Seattle Kraken,2,0.019376089905057157
+433,Dallas Stars x Vegas Golden Knights,2,0.019376089905057157
+434,Detroit Red Wings x Seattle Kraken,2,0.019376089905057157
+435,Los Angeles Kings x Seattle Kraken,2,0.019376089905057157
+436,Florida Panthers x Vegas Golden Knights,2,0.019376089905057157
+437,Detroit Red Wings x Vegas Golden Knights,2,0.019376089905057157
+438,Calgary Flames x Vegas Golden Knights,2,0.019376089905057157
+439,Nashville Predators x Seattle Kraken,1,0.009688044952528578
+440,Detroit Red Wings x Winnipeg Jets,1,0.009688044952528578
+441,Boston Bruins x Seattle Kraken,1,0.009688044952528578
+442,Ottawa Senators x Seattle Kraken,1,0.009688044952528578
+443,New Jersey Devils x Vegas Golden Knights,1,0.009688044952528578
+444,Montreal Canadiens x Seattle Kraken,1,0.009688044952528578
+445,Montreal Canadiens x Vegas Golden Knights,1,0.009688044952528578
+446,Chicago Blackhawks x Vegas Golden Knights,1,0.009688044952528578
+447,Seattle Kraken x Toronto Maple Leafs,1,0.009688044952528578
+448,Buffalo Sabres x Seattle Kraken,1,0.009688044952528578
+449,Seattle Kraken x Tampa Bay Lightning,1,0.009688044952528578
+450,Seattle Kraken x Washington Capitals,1,0.009688044952528578
+451,Columbus Blue Jackets x Seattle Kraken,1,0.009688044952528578
+452,Vegas Golden Knights x Washington Capitals,1,0.009688044952528578
+453,New York Rangers x Seattle Kraken,1,0.009688044952528578

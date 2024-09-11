@@ -1,0 +1,8 @@
+.env
+.pyproject.toml
+.venv
+tests
+poetry.lock
+__init__.py 
+.pytest_cache
+mkdocs.yml
