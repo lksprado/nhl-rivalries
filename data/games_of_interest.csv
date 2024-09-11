@@ -1,0 +1,280 @@
+data,game
+2024-09-21 20:00:00,Dallas Stars x St. Louis Blues
+2024-09-22 16:00:00,Philadelphia Flyers x Washington Capitals
+2024-09-22 18:00:00,Boston Bruins x New York Rangers
+2024-09-22 20:00:00,New Jersey Devils x New York Rangers
+2024-09-22 20:00:00,Ottawa Senators x Toronto Maple Leafs
+2024-09-23 22:00:00,Calgary Flames x Edmonton Oilers
+2024-09-24 20:00:00,Ottawa Senators x Toronto Maple Leafs
+2024-09-24 20:00:00,Boston Bruins x Washington Capitals
+2024-09-24 23:00:00,Anaheim Ducks x San Jose Sharks
+2024-09-25 20:00:00,Columbus Blue Jackets x St. Louis Blues
+2024-09-25 20:00:00,Florida Panthers x Tampa Bay Lightning
+2024-09-25 23:00:00,Calgary Flames x Vancouver Canucks
+2024-09-26 20:00:00,Boston Bruins x New York Rangers
+2024-09-26 20:00:00,Montreal Canadiens x Toronto Maple Leafs
+2024-09-26 20:00:00,New York Rangers x Philadelphia Flyers
+2024-09-26 23:00:00,Anaheim Ducks x San Jose Sharks
+2024-09-27 20:00:00,New Jersey Devils x New York Rangers
+2024-09-28 19:00:00,Anaheim Ducks x Los Angeles Kings
+2024-09-28 20:00:00,Boston Bruins x Philadelphia Flyers
+2024-09-28 20:00:00,Montreal Canadiens x Toronto Maple Leafs
+2024-09-28 20:00:00,Chicago Blackhawks x St. Louis Blues
+2024-09-28 22:00:00,Calgary Flames x Vancouver Canucks
+2024-09-30 20:00:00,New Jersey Devils x New York Rangers
+2024-09-30 20:00:00,New York Rangers x Philadelphia Flyers
+2024-09-30 20:00:00,Florida Panthers x Tampa Bay Lightning
+2024-09-30 22:00:00,Edmonton Oilers x Vancouver Canucks
+2024-09-30 23:00:00,Anaheim Ducks x Los Angeles Kings
+2024-10-01 20:00:00,New Jersey Devils x New York Rangers
+2024-10-01 20:00:00,Boston Bruins x Philadelphia Flyers
+2024-10-01 21:00:00,Columbus Blue Jackets x St. Louis Blues
+2024-10-02 20:00:00,Florida Panthers x Tampa Bay Lightning
+2024-10-03 20:00:00,New Jersey Devils x Philadelphia Flyers
+2024-10-03 21:00:00,Dallas Stars x St. Louis Blues
+2024-10-04 23:00:00,Anaheim Ducks x San Jose Sharks
+2024-10-04 23:00:00,Edmonton Oilers x Vancouver Canucks
+2024-10-05 18:00:00,Boston Bruins x Washington Capitals
+2024-10-05 21:00:00,Chicago Blackhawks x St. Louis Blues
+2024-10-08 20:00:00,Boston Bruins x Florida Panthers
+2024-10-09 20:00:00,Montreal Canadiens x Toronto Maple Leafs
+2024-10-09 23:00:00,Calgary Flames x Vancouver Canucks
+2024-10-10 20:00:00,Boston Bruins x Montreal Canadiens
+2024-10-10 20:00:00,Florida Panthers x Ottawa Senators
+2024-10-12 23:00:00,Anaheim Ducks x San Jose Sharks
+2024-10-13 21:00:00,Calgary Flames x Edmonton Oilers
+2024-10-14 14:00:00,Boston Bruins x Florida Panthers
+2024-10-15 21:00:00,Dallas Stars x San Jose Sharks
+2024-10-20 21:00:00,Anaheim Ducks x Los Angeles Kings
+2024-10-22 19:00:00,Philadelphia Flyers x Washington Capitals
+2024-10-22 23:15:00,Anaheim Ducks x San Jose Sharks
+2024-10-23 20:30:00,Philadelphia Flyers x Washington Capitals
+2024-10-25 20:00:00,New Jersey Devils x New York Rangers
+2024-10-25 21:30:00,Chicago Blackhawks x Nashville Predators
+2024-10-26 20:00:00,Boston Bruins x Toronto Maple Leafs
+2024-10-26 21:00:00,Columbus Blue Jackets x Nashville Predators
+2024-10-29 20:00:00,Boston Bruins x Philadelphia Flyers
+2024-10-29 20:30:00,New York Rangers x Washington Capitals
+2024-11-02 14:00:00,Boston Bruins x Philadelphia Flyers
+2024-11-03 22:00:00,Calgary Flames x Edmonton Oilers
+2024-11-03 22:00:00,Anaheim Ducks x Chicago Blackhawks
+2024-11-05 21:00:00,Boston Bruins x Toronto Maple Leafs
+2024-11-09 20:00:00,Florida Panthers x Philadelphia Flyers
+2024-11-09 21:00:00,Boston Bruins x Ottawa Senators
+2024-11-09 21:00:00,Montreal Canadiens x Toronto Maple Leafs
+2024-11-09 21:30:00,New Jersey Devils x New York Rangers
+2024-11-10 00:00:00,Edmonton Oilers x Vancouver Canucks
+2024-11-12 21:00:00,Ottawa Senators x Toronto Maple Leafs
+2024-11-13 00:00:00,Calgary Flames x Vancouver Canucks
+2024-11-14 21:00:00,Ottawa Senators x Philadelphia Flyers
+2024-11-18 22:00:00,Anaheim Ducks x Dallas Stars
+2024-11-19 22:30:00,Anaheim Ducks x Chicago Blackhawks
+2024-11-20 22:00:00,Dallas Stars x San Jose Sharks
+2024-11-23 18:00:00,Calgary Flames x Minnesota Wild
+2024-11-27 21:30:00,Boston Bruins x New York Rangers
+2024-11-29 15:00:00,New York Rangers x Philadelphia Flyers
+2024-11-29 17:00:00,New York Rangers x Washington Capitals
+2024-11-29 17:00:00,Calgary Flames x Columbus Blue Jackets
+2024-11-29 17:30:00,Anaheim Ducks x Los Angeles Kings
+2024-12-01 17:00:00,Boston Bruins x Montreal Canadiens
+2024-12-01 17:00:00,Chicago Blackhawks x Columbus Blue Jackets
+2024-12-02 21:00:00,New Jersey Devils x New York Rangers
+2024-12-03 22:00:00,Minnesota Wild x Vancouver Canucks
+2024-12-03 23:00:00,Calgary Flames x Columbus Blue Jackets
+2024-12-05 21:00:00,Florida Panthers x Philadelphia Flyers
+2024-12-05 23:00:00,Calgary Flames x St. Louis Blues
+2024-12-07 15:00:00,Boston Bruins x Philadelphia Flyers
+2024-12-14 22:00:00,Dallas Stars x St. Louis Blues
+2024-12-17 00:30:00,Colorado Avalanche x Vancouver Canucks
+2024-12-21 21:00:00,Boston Bruins x Buffalo Sabres
+2024-12-22 19:00:00,Florida Panthers x Tampa Bay Lightning
+2024-12-23 15:00:00,New Jersey Devils x New York Rangers
+2024-12-23 21:00:00,Boston Bruins x Washington Capitals
+2024-12-23 21:00:00,Florida Panthers x Tampa Bay Lightning
+2024-12-23 21:00:00,Philadelphia Flyers x Pittsburgh Penguins
+2024-12-28 18:00:00,Edmonton Oilers x Los Angeles Kings
+2024-12-28 21:00:00,New York Rangers x Tampa Bay Lightning
+2024-12-31 14:30:00,Boston Bruins x Washington Capitals
+2024-12-31 19:00:00,Chicago Blackhawks x St. Louis Blues
+2024-12-31 23:00:00,Calgary Flames x Vancouver Canucks
+2025-01-02 21:00:00,Boston Bruins x New York Rangers
+2025-01-04 14:00:00,New York Rangers x Washington Capitals
+2025-01-04 21:00:00,Boston Bruins x Toronto Maple Leafs
+2025-01-04 21:00:00,Columbus Blue Jackets x St. Louis Blues
+2025-01-05 20:00:00,Boston Bruins x New York Rangers
+2025-01-08 00:00:00,Anaheim Ducks x Calgary Flames
+2025-01-09 21:00:00,New Jersey Devils x New York Rangers
+2025-01-09 22:00:00,Anaheim Ducks x St. Louis Blues
+2025-01-11 15:00:00,Boston Bruins x Florida Panthers
+2025-01-11 21:00:00,Columbus Blue Jackets x St. Louis Blues
+2025-01-13 21:00:00,Florida Panthers x Philadelphia Flyers
+2025-01-13 23:30:00,Edmonton Oilers x Los Angeles Kings
+2025-01-14 22:00:00,Calgary Flames x St. Louis Blues
+2025-01-16 21:30:00,New York Rangers x Philadelphia Flyers
+2025-01-16 22:00:00,Calgary Flames x St. Louis Blues
+2025-01-16 22:00:00,Chicago Blackhawks x Nashville Predators
+2025-01-18 14:30:00,New Jersey Devils x Philadelphia Flyers
+2025-01-18 17:00:00,Boston Bruins x Ottawa Senators
+2025-01-18 21:00:00,Montreal Canadiens x Toronto Maple Leafs
+2025-01-19 00:00:00,Edmonton Oilers x Vancouver Canucks
+2025-01-23 21:00:00,Boston Bruins x Ottawa Senators
+2025-01-23 21:00:00,New York Rangers x Philadelphia Flyers
+2025-01-23 23:00:00,Edmonton Oilers x Vancouver Canucks
+2025-01-24 21:30:00,New York Rangers x Philadelphia Flyers
+2025-01-25 21:00:00,Ottawa Senators x Toronto Maple Leafs
+2025-01-25 21:00:00,Dallas Stars x St. Louis Blues
+2025-01-25 21:00:00,Calgary Flames x Minnesota Wild
+2025-01-26 00:00:00,Anaheim Ducks x Nashville Predators
+2025-01-27 21:00:00,New Jersey Devils x Philadelphia Flyers
+2025-01-28 21:00:00,Boston Bruins x Buffalo Sabres
+2025-01-29 21:00:00,New Jersey Devils x Philadelphia Flyers
+2025-01-30 21:30:00,New York Rangers x Philadelphia Flyers
+2025-01-30 23:00:00,Anaheim Ducks x Calgary Flames
+2025-01-31 23:00:00,Colorado Avalanche x St. Louis Blues
+2025-02-01 17:30:00,Boston Bruins x New York Rangers
+2025-02-01 21:00:00,New York Rangers x Tampa Bay Lightning
+2025-02-05 00:00:00,Colorado Avalanche x Vancouver Canucks
+2025-02-05 00:30:00,Anaheim Ducks x Dallas Stars
+2025-02-05 21:00:00,Boston Bruins x New York Rangers
+2025-02-06 21:00:00,Philadelphia Flyers x Washington Capitals
+2025-02-06 23:00:00,Calgary Flames x Colorado Avalanche
+2025-02-07 22:30:00,Chicago Blackhawks x Nashville Predators
+2025-02-08 21:00:00,Florida Panthers x Ottawa Senators
+2025-02-08 21:00:00,Philadelphia Flyers x Pittsburgh Penguins
+2025-02-08 21:00:00,Chicago Blackhawks x St. Louis Blues
+2025-02-09 00:00:00,Dallas Stars x San Jose Sharks
+2025-02-09 00:30:00,Anaheim Ducks x Los Angeles Kings
+2025-02-22 21:00:00,Chicago Blackhawks x Columbus Blue Jackets
+2025-02-23 20:00:00,Colorado Avalanche x St. Louis Blues
+2025-02-25 21:00:00,Boston Bruins x Toronto Maple Leafs
+2025-02-25 21:00:00,Philadelphia Flyers x Pittsburgh Penguins
+2025-02-27 21:00:00,Boston Bruins x New York Rangers
+2025-02-27 21:00:00,Philadelphia Flyers x Pittsburgh Penguins
+2025-03-02 00:00:00,Anaheim Ducks x Chicago Blackhawks
+2025-03-02 20:00:00,Dallas Stars x St. Louis Blues
+2025-03-03 21:00:00,Florida Panthers x Tampa Bay Lightning
+2025-03-05 21:30:00,New York Rangers x Washington Capitals
+2025-03-08 00:00:00,Minnesota Wild x Vancouver Canucks
+2025-03-08 00:00:00,Anaheim Ducks x St. Louis Blues
+2025-03-08 22:00:00,Chicago Blackhawks x Nashville Predators
+2025-03-09 14:00:00,New Jersey Devils x Philadelphia Flyers
+2025-03-11 20:00:00,Boston Bruins x Florida Panthers
+2025-03-11 20:00:00,Ottawa Senators x Philadelphia Flyers
+2025-03-12 22:00:00,Calgary Flames x Vancouver Canucks
+2025-03-13 20:00:00,Boston Bruins x Ottawa Senators
+2025-03-14 22:00:00,Calgary Flames x Colorado Avalanche
+2025-03-14 23:00:00,Anaheim Ducks x Nashville Predators
+2025-03-15 20:00:00,Ottawa Senators x Toronto Maple Leafs
+2025-03-16 19:00:00,Anaheim Ducks x St. Louis Blues
+2025-03-17 20:00:00,Boston Bruins x Buffalo Sabres
+2025-03-18 21:00:00,Anaheim Ducks x Dallas Stars
+2025-03-20 20:00:00,Philadelphia Flyers x Washington Capitals
+2025-03-20 21:00:00,Anaheim Ducks x Nashville Predators
+2025-03-22 16:00:00,Chicago Blackhawks x St. Louis Blues
+2025-03-29 15:00:00,New York Rangers x Tampa Bay Lightning
+2025-03-29 17:30:00,Colorado Avalanche x St. Louis Blues
+2025-03-29 23:00:00,Calgary Flames x Edmonton Oilers
+2025-03-31 21:30:00,Calgary Flames x Colorado Avalanche
+2025-04-01 20:00:00,Boston Bruins x Washington Capitals
+2025-04-01 20:00:00,Columbus Blue Jackets x Nashville Predators
+2025-04-01 20:30:00,New York Rangers x Tampa Bay Lightning
+2025-04-01 23:00:00,Anaheim Ducks x San Jose Sharks
+2025-04-03 20:00:00,Boston Bruins x Montreal Canadiens
+2025-04-03 22:30:00,Anaheim Ducks x Calgary Flames
+2025-04-05 13:30:00,New Jersey Devils x New York Rangers
+2025-04-05 15:00:00,Florida Panthers x Ottawa Senators
+2025-04-05 17:00:00,Edmonton Oilers x Los Angeles Kings
+2025-04-05 20:00:00,Colorado Avalanche x St. Louis Blues
+2025-04-06 13:30:00,New York Rangers x Washington Capitals
+2025-04-06 19:00:00,Boston Bruins x Buffalo Sabres
+2025-04-07 20:00:00,New York Rangers x Tampa Bay Lightning
+2025-04-09 20:30:00,New York Rangers x Philadelphia Flyers
+2025-04-09 23:00:00,Anaheim Ducks x Calgary Flames
+2025-04-10 22:00:00,Colorado Avalanche x Vancouver Canucks
+2025-04-10 23:00:00,Anaheim Ducks x Los Angeles Kings
+2025-04-11 23:00:00,Calgary Flames x Minnesota Wild
+2025-04-12 13:30:00,New York Rangers x Philadelphia Flyers
+2025-04-12 20:00:00,Montreal Canadiens x Toronto Maple Leafs
+2025-04-12 23:00:00,Minnesota Wild x Vancouver Canucks
+2025-04-13 14:00:00,Ottawa Senators x Philadelphia Flyers
+2025-04-13 14:00:00,New Jersey Devils x New York Rangers
+2025-04-14 23:00:00,Edmonton Oilers x Los Angeles Kings
+2025-04-15 20:00:00,Florida Panthers x Tampa Bay Lightning
+2025-04-15 21:00:00,New York Rangers x Washington Capitals
+2025-04-17 20:00:00,New York Rangers x Tampa Bay Lightning
+2024-09-22 19:00:00,Edmonton Oilers x Winnipeg Jets
+2024-09-25 21:00:00,Edmonton Oilers x Winnipeg Jets
+2024-09-28 22:00:00,Edmonton Oilers x Seattle Kraken
+2024-10-02 23:00:00,Edmonton Oilers x Seattle Kraken
+2024-10-09 23:00:00,Edmonton Oilers x Winnipeg Jets
+2024-10-12 23:00:00,Chicago Blackhawks x Edmonton Oilers
+2024-10-15 23:00:00,Edmonton Oilers x Philadelphia Flyers
+2024-10-17 21:00:00,Edmonton Oilers x Nashville Predators
+2024-10-19 17:00:00,Dallas Stars x Edmonton Oilers
+2024-10-22 22:00:00,Carolina Hurricanes x Edmonton Oilers
+2024-10-25 22:00:00,Edmonton Oilers x Pittsburgh Penguins
+2024-10-27 19:00:00,Detroit Red Wings x Edmonton Oilers
+2024-10-28 20:00:00,Columbus Blue Jackets x Edmonton Oilers
+2024-10-31 21:00:00,Edmonton Oilers x Nashville Predators
+2024-11-04 22:30:00,Edmonton Oilers x New Jersey Devils
+2024-11-06 22:30:00,Edmonton Oilers x Vegas Golden Knights
+2024-11-12 23:00:00,Edmonton Oilers x New York Rangers
+2024-11-14 23:00:00,Edmonton Oilers x Nashville Predators
+2024-11-16 21:00:00,Edmonton Oilers x Toronto Maple Leafs
+2024-11-18 21:30:00,Edmonton Oilers x Montreal Canadiens
+2024-11-19 21:00:00,Edmonton Oilers x Ottawa Senators
+2024-11-21 23:00:00,Edmonton Oilers x Minnesota Wild
+2024-11-24 00:00:00,Edmonton Oilers x New York Rangers
+2024-11-29 23:00:00,Edmonton Oilers x Utah HC
+2024-12-01 00:00:00,Colorado Avalanche x Edmonton Oilers
+2024-12-04 00:00:00,Edmonton Oilers x Vegas Golden Knights
+2024-12-05 23:00:00,Columbus Blue Jackets x Edmonton Oilers
+2024-12-08 00:00:00,Edmonton Oilers x St. Louis Blues
+2024-12-10 23:00:00,Edmonton Oilers x Tampa Bay Lightning
+2024-12-12 22:30:00,Edmonton Oilers x Minnesota Wild
+2024-12-14 18:00:00,Edmonton Oilers x Vegas Golden Knights
+2024-12-16 22:30:00,Edmonton Oilers x Florida Panthers
+2024-12-19 23:00:00,Boston Bruins x Edmonton Oilers
+2024-12-21 18:00:00,Edmonton Oilers x San Jose Sharks
+2024-12-22 22:00:00,Edmonton Oilers x Ottawa Senators
+2024-12-29 18:00:00,Anaheim Ducks x Edmonton Oilers
+2024-12-31 23:00:00,Edmonton Oilers x Utah HC
+2025-01-03 23:00:00,Anaheim Ducks x Edmonton Oilers
+2025-01-05 00:00:00,Edmonton Oilers x Seattle Kraken
+2025-01-07 21:00:00,Boston Bruins x Edmonton Oilers
+2025-01-09 21:00:00,Edmonton Oilers x Pittsburgh Penguins
+2025-01-11 21:00:00,Chicago Blackhawks x Edmonton Oilers
+2025-01-15 22:30:00,Edmonton Oilers x Minnesota Wild
+2025-01-16 23:30:00,Colorado Avalanche x Edmonton Oilers
+2025-01-21 23:00:00,Edmonton Oilers x Washington Capitals
+2025-01-25 18:00:00,Buffalo Sabres x Edmonton Oilers
+2025-01-27 23:30:00,Edmonton Oilers x Seattle Kraken
+2025-01-30 23:00:00,Detroit Red Wings x Edmonton Oilers
+2025-02-01 21:00:00,Edmonton Oilers x Toronto Maple Leafs
+2025-02-04 22:00:00,Edmonton Oilers x St. Louis Blues
+2025-02-05 23:30:00,Chicago Blackhawks x Edmonton Oilers
+2025-02-07 23:00:00,Colorado Avalanche x Edmonton Oilers
+2025-02-22 15:00:00,Edmonton Oilers x Philadelphia Flyers
+2025-02-23 15:00:00,Edmonton Oilers x Washington Capitals
+2025-02-25 21:30:00,Edmonton Oilers x Tampa Bay Lightning
+2025-02-27 21:30:00,Edmonton Oilers x Florida Panthers
+2025-03-01 21:00:00,Carolina Hurricanes x Edmonton Oilers
+2025-03-04 23:00:00,Anaheim Ducks x Edmonton Oilers
+2025-03-06 23:00:00,Edmonton Oilers x Montreal Canadiens
+2025-03-09 00:00:00,Dallas Stars x Edmonton Oilers
+2025-03-10 19:30:00,Buffalo Sabres x Edmonton Oilers
+2025-03-13 20:30:00,Edmonton Oilers x New Jersey Devils
+2025-03-14 20:30:00,Edmonton Oilers x New York Rangers
+2025-03-16 20:00:00,Edmonton Oilers x New York Rangers
+2025-03-18 22:00:00,Edmonton Oilers x Utah HC
+2025-03-20 22:00:00,Edmonton Oilers x Winnipeg Jets
+2025-03-22 23:00:00,Edmonton Oilers x Seattle Kraken
+2025-03-26 23:00:00,Dallas Stars x Edmonton Oilers
+2025-03-27 23:00:00,Edmonton Oilers x Seattle Kraken
+2025-04-01 23:00:00,Edmonton Oilers x Vegas Golden Knights
+2025-04-03 23:30:00,Edmonton Oilers x San Jose Sharks
+2025-04-07 23:30:00,Anaheim Ducks x Edmonton Oilers
+2025-04-09 23:00:00,Edmonton Oilers x St. Louis Blues
+2025-04-11 22:30:00,Edmonton Oilers x San Jose Sharks
+2025-04-13 20:00:00,Edmonton Oilers x Winnipeg Jets
+2025-04-16 23:30:00,Edmonton Oilers x San Jose Sharks

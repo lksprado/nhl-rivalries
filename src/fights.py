@@ -1,55 +1,50 @@
-import csv
+import pandas as pd 
 
-import pandas as pd
 
 # GETS DATAFRAME FROM CSV
-df = pd.read_csv("data/nhl-regular-all-fights.csv", header="infer", index_col=None)
+df = pd.read_csv("data/nhl-regular-all-fights.csv",header='infer', index_col=None)
 
 # ALLOW PANDAS TO DISPLAY ALL COLUMNS
-pd.set_option("display.max_columns", 100)
+pd.set_option('display.max_columns',100)
 
 # SELECT NECESSARY COLUMNS ONLY
-df = df[["player_1_team", "player_2_team"]]
+df = df[["player_1_team","player_2_team"]]
 
-# LISTING  DEPRECATED FRANCHISES
-rmv_list = ["Arizona Coyotes", "Atlanta Thrashers"]
+# LISTING  DEPRECATED FRANCHISES 
+rmv_list = ['Arizona Coyotes', 'Atlanta Thrashers']
 
 # FILTERING THEM OUT
-df = df[~df["player_1_team"].isin(rmv_list) & ~df["player_2_team"].isin(rmv_list)]
+df = df[~df['player_1_team'].isin(rmv_list) & ~df['player_2_team'].isin(rmv_list)]
 
 # SORTING THE COLUMNS TO AVOID THE DEDUPLICATION BETWEEN SAME TEAMS
-df["team1"], df["team2"] = zip(
-    *df.apply(lambda row: sorted([row["player_1_team"], row["player_2_team"]]), axis=1)
-)
+df['team1'], df['team2'] = zip(*df.apply(lambda row: sorted([row['player_1_team'], row['player_2_team']]), axis=1))
 
 # SELECTING SORTED COLUMNS
-df = df[["team1", "team2"]]
+df = df[['team1','team2']]
 
 # CONCATENATING TO FORM CONFRONTATIONS
-df.loc[:, "fight"] = df["team1"] + " x " + df["team2"]
+df.loc[:, 'fight'] = df['team1'] + ' x ' + df['team2']
 
 # COUNTING UNIQUE FIGHTS
-fight_counts = df["fight"].value_counts().reset_index()
+fight_counts = df['fight'].value_counts().reset_index()
 
 # RENAMING COLUMNS
-fight_counts.columns = ["fight", "count"]
+fight_counts.columns = ['fight', 'count']
 
 # CALCULATING THE PERCENTAGE
-fight_counts["percentage"] = (fight_counts["count"] / fight_counts["count"].sum()) * 100
+fight_counts['percentage'] = (fight_counts['count'] / fight_counts['count'].sum()) * 100
 
 # SORTING DESC
-fight_counts = fight_counts.sort_values(by="percentage", ascending=False).reset_index(
-    drop=True
-)
+fight_counts = fight_counts.sort_values(by='percentage', ascending=False).reset_index(drop=True)
 
 # MAKING INDEX START AT 1
 fight_counts.index = fight_counts.index + 1
 
 # SAVES TO CSV ALL FIGHT HISTORY
-fight_counts.to_csv("data/fight_stats.csv", index=True)
+fight_counts.to_csv("data/fight_stats.csv",index=True)
 
 # SELECT TOP 50 RIVALRIES
-df_top50 = fight_counts.loc[0:50, :]
+df_top50 = fight_counts.loc[0:50,:]
 
 # SAVES TOP 50 TO CSV
 df_top50.to_csv("data/top50_fights.csv", index=True)
