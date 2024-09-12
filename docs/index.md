@@ -37,6 +37,6 @@ graph TD
 
 #### MAIL TEST EXAMPLE
 
-![alt text](../pics/image_copy.png)
+![alt text](../docs/image_copy.png)
 
 

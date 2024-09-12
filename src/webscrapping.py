@@ -36,7 +36,8 @@ class NhlScrapper:
         return session
 
     # LISTING ALL GAME WEEKS TO QUERY
-    def generate_gameweeks(self, startdate, enddate):
+    def generate_gameweeks(self, startdate, enddate) -> list:
+        """ Function to generate weeks from the begining to the end of season"""
         gameweeks_ls = []
         current_date = startdate
         while current_date <= enddate:
@@ -45,6 +46,7 @@ class NhlScrapper:
         return gameweeks_ls
 
     def call_api(self):
+        """Calls the schedule API"""
         url = f"{self.origin}/{self.gameweek}"
         print(f"Request URL: {url}")  # FOR DEBUGGING
         headers = {
@@ -65,6 +67,7 @@ class NhlScrapper:
             return None
 
     def extract_data(self, games, gameweek):
+        """ Extract data from the json"""
         # SAVES JSON TO DIR 'data/'
         file_path = os.path.join(self.data_dir, f"{gameweek}.json")
         with open(file_path, "w") as json_file:

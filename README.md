@@ -1,6 +1,8 @@
 # nhl-rivalries
 
-Project documentation here:
+Project documentation here: https://lksprado.github.io/nhl-rivalries/
+
+![alt text](pics/image.png)
 
 
 ##### STEPS
@@ -110,3 +112,4 @@ with DAG(
         python_callable=check_and_send_email
     )
 ```
+

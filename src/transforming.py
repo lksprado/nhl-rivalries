@@ -4,6 +4,9 @@ import pandas as pd
 from datetime import timedelta
 
 def transform(json_path: str,tz: int ,csv_output: str):
+    """
+    Transforms json files into single csv file containing all data and fixing datetime if needed
+    """
     # LOADS JSON
 
     # LIST OUTSIDE THE LOOP TO HOLD ALL GAME DATA
