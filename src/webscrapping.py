@@ -46,7 +46,7 @@ class NhlScrapper:
 
     def call_api(self):
         url = f"{self.origin}/{self.gameweek}"
-        print(f"Request URL: {url}")  # Print the full URL for debugging
+        print(f"Request URL: {url}")  # FOR DEBUGGING
         headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0"
         }
@@ -65,7 +65,7 @@ class NhlScrapper:
             return None
 
     def extract_data(self, games, gameweek):
-        # Salva o arquivo JSON no diretório 'data/'
+        # SAVES JSON TO DIR 'data/'
         file_path = os.path.join(self.data_dir, f"{gameweek}.json")
         with open(file_path, "w") as json_file:
             json.dump(games, json_file, indent=4)
@@ -73,17 +73,17 @@ class NhlScrapper:
 
 
 if __name__ == "__main__":
-    # Definir datas de início e término
-    startdate = datetime.date(2024, 9, 21)
+    # DEFINE START AND END DATE FOR SEASON
+    startdate = datetime.date(2024, 9, 21) # INCLUDING PRE-SEASON
     enddate = datetime.date(2025, 4, 12)
 
-    # Instancia o scrapper
+    # INSTANCE SCRAPPER
     scrapper = NhlScrapper()
 
-    # Gera semanas de jogo
+    # GENERATE WEEKS LIST
     gameweeks = scrapper.generate_gameweeks(startdate, enddate)
 
-    # Itera por cada gameweek, faz a chamada à API e salva os dados
+    # LOOP EACH GAME WEEK, CALLS API AND SAVES DATA
     for week in gameweeks:
         scrapper.gameweek = week
         games = scrapper.call_api()
