@@ -6,3 +6,5 @@ poetry.lock
 __init__.py 
 .pytest_cache
 mkdocs.yml
+site/
+site
