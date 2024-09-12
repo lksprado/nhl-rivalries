@@ -35,3 +35,8 @@ graph TD
 | `all_games.csv`             | Concatenates the schedule for the season                                                           |
 | `games_of_interest.csv`     | Contains only Oilers games and the top 50 rivalries                                                |
 
+#### MAIL TEST EXAMPLE
+
+![alt text](../pics/image_copy.png)
+
+

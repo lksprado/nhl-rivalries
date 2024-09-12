@@ -1,6 +1,9 @@
 import pandas as pd
 
-def process_fights_data(input_csv, fight_stats_csv, top50_fights_csv):
+def process_fights_data(input_csv: str, fight_stats_csv: str, top50_fights_csv: str):
+    """
+    Reads the the nhl-regular-all-fights.csv and outputs 2 calculation csv files
+    """
     # GETS DATAFRAME FROM CSV
     df = pd.read_csv(input_csv, header='infer', index_col=None)
 

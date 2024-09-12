@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from datetime import timedelta
 
-def transform(json_path: str, csv_output: str):
+def transform(json_path: str,tz: int ,csv_output: str):
     # LOADS JSON
 
     # LIST OUTSIDE THE LOOP TO HOLD ALL GAME DATA
@@ -38,7 +38,7 @@ def transform(json_path: str, csv_output: str):
     df['data'] = pd.to_datetime(df['data'], format='%Y-%m-%dT%H:%M:%SZ')
     
     # FIX TIMEZONE
-    df['data'] = df['data'] - timedelta(hours=3)
+    df['data'] = df['data'] + timedelta(hours=tz)
 
     # RENAME FRANCHISES
     team_map = {

@@ -36,10 +36,13 @@ for week in gameweeks:
 
 json_dir = 'data/json'
 all_games =  'data/all_games.csv'
-transform(json_dir, all_games)
+tmz = -3 # 0 is UTC
+transform(json_dir,tmz ,all_games)
 
 # -----------------------------------------------------------------------------------------
 # FINAL MODELLING
 
 final_model =  'data/games_of_interest.csv'
-model(all_games, all_time_top50, final_model )
+team = "Oilers"
+model(all_games, all_time_top50, team , final_model )
+
