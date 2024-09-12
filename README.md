@@ -2,10 +2,10 @@
 
 Project documentation here: https://lksprado.github.io/nhl-rivalries/
 
-![alt text](pics/image.png)
+![alt text](pics/image_copy.png)
 
 
-##### STEPS
+### STEPS
 
 1. Clone repo
 ```
